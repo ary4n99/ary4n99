@@ -7,8 +7,8 @@
 - Current goal: get a summer 2021 internship 🤣
 
 ### Connect with me:
-[<img align="left" alt="Personal Website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](ary4n99.github.io)
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](linkedin.com/in/aryan-a/)
+[<img align="left" alt="Personal Website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://ary4n99.github.io)
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://linkedin.com/in/aryan-a/)
 <br>
 
 ### Languages and Tools:
