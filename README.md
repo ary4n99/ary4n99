@@ -2,7 +2,7 @@
 
 ### I'm a first year computer science student at the University of Manchester!
 - I'm currently building [Recipedia](https://github.com/W8-Recipedia/Recipedia), a recipe recommendation site, with a team of 7 people 
-- I'm learning the [PERN](https://www.geeksforgeeks.org/what-is-pern-stack/) stack for web development
+- I'm learning the SERN stack for web development
 - I'm contributing to the UniCS Manchester GameDev society website
 - I'm passionate about fitness 🏋️‍, playing the guitar 🎸, and cardistry 🃏
 - Current goal: get a summer 2021 internship 🤣
@@ -13,12 +13,13 @@
 <br>
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/91de473fa3f2f749a56effc3e64f1049d108251f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/QkHj6Zp/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+<img align="left" alt="Python" width="26px" src="https://i.ibb.co/59Fr8zY/5848152fcef1014c0b5e4967.png" />
+<img align="left" alt="Java" width="26px" src="https://i.ibb.co/Trkp3mS/58480979cef1014c0b5e4901.png" />
+<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://i.ibb.co/T8x8xby/CSS-3-svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
+<img align="left" alt="MySQL" width="26px" src="https://i.ibb.co/M5Ymjj1/5848104fcef1014c0b5e4950.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
