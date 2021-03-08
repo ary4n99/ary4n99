@@ -1,7 +1,7 @@
 ## Hi there, I'm Aryan 👋
 
 ### I'm a first year computer science student at the University of Manchester!
-- I'm currently building [Recipedia](https://github.com/W8-Recipedia/Recipedia), a React based recipe recommendation site, leading a team of 7 people 
+- I'm currently building [Recipedia](https://github.com/W8-Recipedia/Recipedia), a React based recipe recommendation website, leading a team of 7 people 
 - I'm learning Kotlin for Android app development
 - I'm contributing to the UniCS Manchester GameDev society website
 - I'm passionate about fitness 🏋️‍, playing the guitar 🎸, and cardistry 🃏
