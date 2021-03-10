@@ -5,7 +5,7 @@
 - I'm learning Kotlin for Android app development
 - I'm contributing to the UniCS Manchester GameDev society website
 - I'm passionate about fitness 🏋️‍, playing the guitar 🎸, and cardistry 🃏
-- Current goal: get a summer 2021 internship 🤣
+- Current goal: smash my first year exams! 👊
 
 ### Connect with me:
 [<img align="left" alt="Personal Website" width="26px" height="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://ary4n99.github.io)
