@@ -11,5 +11,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="32px" height="30px" src="assets/linkedin.png"/>](https://linkedin.com/in/aryan-a/)
-[<img align="left" alt="Email" width="32px" height="30px" src="assets/gmail.png"/>](mailto:ary4n99@gmail.com)
+[<img align="left" alt="LinkedIn" width="32px" height="32px" src="assets/linkedin.png"/>](https://linkedin.com/in/aryan-a/)
+[<img align="left" alt="Email" width="32px" height="32px" src="assets/gmail.png"/>](mailto:ary4n99@gmail.com)
