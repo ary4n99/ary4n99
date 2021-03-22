@@ -10,5 +10,6 @@
 - Current goal: smash my first year exams! 👊
 
 ### Connect with me:
-[<img align="left" alt="Email" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/281/281769.png"/>](mailto:ary4n99@gmail.com)
-[<img align="left" alt="LinkedIn" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>](https://linkedin.com/in/aryan-a/)
+
+[![](assets/linkedin)](https://linkedin.com/in/aryan-a/)
+[![](assets/gmail)](mailto:ary4n99@gmail.com)
