@@ -13,3 +13,9 @@
 
 [<img align="left" alt="LinkedIn" width="32px" height="32px" src="assets/linkedin.png"/>](https://linkedin.com/in/aryan-a/)
 [<img align="left" alt="Email" width="32px" height="32px" src="assets/gmail.png"/>](mailto:ary4n99@gmail.com)
+<br>
+<br>
+
+### Github stats:
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ary4n99&hide=stars&hide_title=true&show_icons=true&count_private=true)
