@@ -16,6 +16,6 @@
 <br>
 <br>
 
-### Github stats:
+### GitHub stats:
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ary4n99&hide=stars&hide_title=true&show_icons=true&count_private=true)
